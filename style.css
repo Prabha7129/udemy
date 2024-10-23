@@ -79,24 +79,13 @@ input{
     padding:16px;
     border-radius: 38px;   
 }
-#subhead:hover{
-    background-color: black;
-    
-}
+
 .sp2{
     font-weight: bold;
     font-size:20px;
     color:black    
 }
-.sp2:hover{
-    color: white;
-}
-.sp3{
-    color: black;
-}
-.sp3:hover{
-    color: white;
-}
+
 #parent0{
     padding-left: 45px;
 }
