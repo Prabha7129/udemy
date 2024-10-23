@@ -213,14 +213,94 @@ li{
 }
 #maindiv6{
     display: flex;
-    justify-content: space-between;
+    
 }
 #part6-a{
    margin-left: 80px;
    margin-top: 80px;
-   width: 200px;
-   height: 80px;
+   width: 270px;
+   
 }
 #part6-b{
     margin-left: 80px;
+}
+#maindiv7{
+    background-color:rgb(235, 230, 250) ;
+}
+#container-3{
+    display: flex;
+    
+    
+}
+#butn1-c{
+    width: 250px;
+    height: 50px;
+    font-size: 18px;
+    font-weight: bold;
+}
+#card-c{
+    width: 250px;
+    margin-left: 80px;
+    
+}
+#card1-c{
+    width: 300px;
+    margin-left: 80px;
+    
+}
+#card2-c{
+    width: 300px;
+    margin-left: 10px;
+   
+}
+#card2-c{
+    width: 300px;
+    margin-left: 20px;
+   
+}
+#maindiv8{
+    background-color:rgb(235, 230, 250) ;
+    display: flex;
+}
+#card-d{
+    width: 600px;
+    margin-left: 80px;
+}
+#card1-d{
+    display: flex;
+    
+}
+#card2-d{
+    width: 250px;
+}
+#butn1-d{
+    color: white;
+    background-color: black;
+    width: 180px;
+    height: 50px;
+    font-size: 18px;
+}
+#maindiv9{
+    background-color: black;
+}
+#card-e{
+    display: flex;
+}
+#card1-e{
+    margin-top: 10px;
+    margin-left: 80px;
+}
+#card2-e{
+    margin-left: 200px;
+}
+#card-f{
+    display: flex;
+}
+#card1-f{
+    color: white;
+    font-size: 20px;
+    margin-left: 80px;
+}
+#card2-f{
+    margin-left: 650px;
 }
